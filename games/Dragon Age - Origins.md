@@ -1,318 +1,159 @@
-# Dragon Age: Origins
+# Game Review – Dragon Age: Origins
 
-## Systemic & Design Review
-
-> **High-level summary:**
-> Dragon Age: Origins delivers strong narrative, worldbuilding, and consequences, but its RPG systems feel underdeveloped, shallow, and structurally unbalanced, especially in the late game.
-
----
-
-## 1. Character Progression & Buildcraft
-
-### 1.1 Companions Join in a “Broken” State
-
-* Companions join the party with **~60% of their build already locked in**.
-* No respec system means:
-
-  * no player control over character concept,
-  * no ownership over party composition,
-  * reduced replayability.
-* Example:
-
-  * **Morrigan** joins with many low-impact or redundant spells.
-
-**Impact:**
-
-* Buildcraft is undermined.
-* Systemic replayability suffers.
-* Party members feel pre-authored rather than player-shaped.
+## Game
+**Title:** Dragon Age: Origins  
+**Developer / Studio:** BioWare  
+**Year:** 2009  
+**Genre:** cRPG
+**Playtime:** ~50–70h
 
 ---
 
-### 1.2 Shallow Skill Trees & Early Build Completion
+## 1. High-Level Overview
 
-* Around **level 9-10**:
-
-  * builds are effectively finished,
-  * remaining progression is mostly filler.
-* Most active skills:
-
-  * are weaker than auto-attacks,
-  * do not change gameplay patterns,
-  * scale poorly into late game.
-* Missing elements:
-
-  * meaningful combos, (I'm aware of shattering for example but that's not enough + only for mages)
-  * cross-tree synergies,
-  * late-game build evolution.
+> Dragon Age: Origins delivers strong narrative, worldbuilding, and long-term consequences, but its RPG systems feel underdeveloped, shallow, and structurally unbalanced, especially in the late game. The game succeeds as a narrative RPG but falls short as a deep systemic one.
 
 ---
 
-## 2. Class Design & Balance
+## 2. Concrete Notes & Observations
 
-### 2.1 Structural Class Imbalance
+### 2.1 What Works Well
 
-* **Mages are structurally overpowered**, not numerically:
-
-  * crowd control,
-  * AoE,
-  * sustain,
-  * synergy stacking,
-  * strong late-game scaling.
-* **Warriors are the weakest class**, because:
-
-  * no unique resource system, (like guard in Dragon Age Inquisition)
-  * tanking = absorbing damage until death,
-  * minimal gameplay decisions.
-* **Rogues**:
-
-  * viable only in specific builds,
-  * require heavy setup to function.
+- Strong worldbuilding and lore.
+- Consistent dark-fantasy tone.
+- Meaningful narrative consequences reflected in epilogues.
+- Some companions are well-written and memorable (Alistair, Leliana, Morrigan).
+- RTwP concept has solid foundations.
+- Tactics system is conceptually interesting and forward-thinking.
 
 ---
 
-### 2.2 Lack of Class-Specific Systems
+### 2.2 Problems / Friction Points
 
-* Classes lack distinct gameplay loops.
-* Mana / stamina alone is insufficient.
-* Missing:
-
-  * resource generation vs expenditure,
-  * risk–reward decisions,
-  * moment-to-moment agency.
-
-**Result:**
-
-> Only mages meaningfully “play the system.”
-
----
-
-## 3. Combat Systems (RTwP)
-
-### 3.1 RTwP Without Planning Tools
-
-* Missing:
-
-  * free camera,
-  * proper battlefield overview,
-  * reliable targeting (especially indoors),
-  * visible action timelines.
-* No **action queue** system (unlike KotOR).
-
-**Effect:**
-
-> Pause loses strategic value and becomes tactical spam.
+- Companions join with ~60% of their builds already locked.
+- No respec system limits player ownership over characters.
+- Skill trees are shallow and effectively completed by level 9–10.
+- Severe structural class imbalance (mages dominate).
+- Warriors lack meaningful gameplay decisions.
+- Active abilities are weak compared to auto-attacks.
+- Stamina system discourages active skill usage.
+- Loot lacks identity and rarely affects playstyle.
+- Many progression choices feel like taxes rather than expression.
+- Moral choices are sparse and unevenly distributed.
+- Companion relationships are binary and static.
 
 ---
 
-### 3.2 Stamina & Active Ability Problems
+### 2.3 Systemic or Design Observations
 
-* Stamina regenerates too slowly.
-* Sustained abilities permanently reduce the resource pool.
-* Active skills compete with each other instead of forming rotations.
-
-**Outcome:**
-
-* Auto-attack spam dominates.
-* Active abilities feel ornamental rather than core.
-* Few meaningful tactical decisions.
-* Lack of "late game" feeling
+- Mages are structurally overpowered due to access to CC, AoE, sustain, and scaling.
+- Warriors lack a class-specific resource system, making tanking passive and unengaging.
+- Rogues are viable only in narrow builds and require heavy setup.
+- Classes lack distinct gameplay loops beyond mana/stamina.
+- RTwP lacks planning tools (action queue, battlefield clarity).
+- Tactics system does not scale to higher difficulties due to limited logic depth.
+- Items are mostly numerical upgrades with no systemic impact.
+- Replayability is driven by structural variation, not emotional divergence.
 
 ---
 
-## 4. AI & Automation
+### 2.4 Memorable Moments / Highlights
 
-### 4.1 Tactics System: Good Idea, Weak Execution
-
-* Single-layer IF rules only.
-* No:
-
-  * AND / OR logic,
-  * compound states,
-  * prioritization layers.
-* Works on Normal difficulty, but:
-
-  * does not scale to higher difficulties,
-  * cannot replace real planning or intent modeling.
-
-Although I'm impressed by the idea and I see potential in this.
+- Redcliffe Castle questline as a standout moral dilemma.
+- Key companion confrontations tied to major story decisions.
+- Final act narrative resolutions and epilogues.
 
 ---
 
-## 5. Items, Loot & Economy
+## 3. Core Evaluation Categories
 
-### 5.1 Loot Inflation & Lack of Item Identity
+### 3.1 Gameplay & Mechanics
 
-* **90–99% of items are vendor trash.**
-* Differences are mostly numeric, not functional.
-* Gear lacks clear archetypes.
+- RTwP combat with limited planning support.
+- Heavy reliance on auto-attacks.
+- Low decision density during combat, especially in late game.
+- Active abilities feel ornamental rather than core.
 
-Examples:
-
-* Gear replaced like 3-4 times during the game.
-* Morrigan using the same staff for most of the game.
-* Loot rarely alters playstyle.
-
----
-
-### 5.2 Items Do Not Support Buildcraft
-
-* Equipment:
-
-  * does not change rotations,
-  * does not affect decision-making,
-  * does not unlock alternative strategies.
-* Missing item archetypes:
-
-  * CC-focused,
-  * sustain-focused,
-  * burst-oriented,
-  * auto-attack synergies.
-
-**Loot ≠ buildcraft.**
+Notes:
+- Gameplay lacks a strong late-game evolution.
+- Combat depth does not scale with player progression.
 
 ---
 
-## 6. Character Progression Taxes
+### 3.2 Systems & Design Coherence
 
-* Mandatory or near-mandatory investments:
+- Narrative systems are strong and cohesive.
+- Gameplay systems often fail to support the intended RPG fantasy.
+- Class, item, and progression systems do not reinforce each other.
 
-  * Coercion,
-  * Lockpicking (rogues)
-* Some seem useless:
-  * Herbalism (there's no problem with potions at all)
-  * Poisons
-  * Stealing
-* Points are spent to:
-
-  * make the game function,
-  * not to express a build fantasy.
+Notes:
+- Strong narrative pillar, weak systemic pillar.
+- Buildcraft, loot, and combat feel disconnected.
 
 ---
 
-## 7. Narrative Systems & Moral Choice
+### 3.3 Presentation & Feel
 
-### 7.1 Moral Decisions: Sparse & Uneven
+- Strong atmosphere and tone.
+- Functional, (well imo) dated visuals.
+- Clear audio and music supporting narrative weight.
 
-* The game is known for “hard choices,” but:
-
-  * there are relatively few,
-  * many are low-impact.
-* **Connor (Redcliffe)** is the standout example.
-* Early game choices:
-
-  * often inconsequential,
-  * lack emotional cost.
-* Decisions are:
-
-  * isolated events,
-  * not cumulative moral arcs.
+Notes:
+- Presentation carries the experience more than systems.
 
 ---
 
-### 7.2 Companions: Binary Outcomes Instead of Processes
+### 3.4 Narrative / Theme / Atmosphere
 
-* Losing companions is a strong concept.
-* But:
+- Dark fantasy tone maintained consistently.
+- Worldbuilding is rich and believable.
+- Companion writing is uneven but occasionally excellent.
 
-  * conflicts are one-off,
-  * no long-term escalation.
-* Approval system:
-
-  * binary,
-  * punishes pragmatism,
-  * lacks nuance (“I disagree, but I understand”).
-  * CAN'T INFLUENCE COMPANIONS! (I miss you KotOR)
-
-### 7.3 Companions are uneven
-* Some of them are great:
-  * Alistair
-  * Lelianna
-  * Morrigan
-* Some are boring
-  * Sten
-  * Shela
-  * Wynne (Could argue)
-
-Additionally they are so stereotypical, like from a disney fairy tale.
+Notes:
+- Narrative is the strongest aspect of the game.
 
 ---
 
-## 8. Replayability
+### 3.5 UX / Accessibility
 
-### 8.1 Structural vs Emotional Replayability
+- Targeting and battlefield readability are poor, especially indoors.
+- Camera limitations reduce tactical clarity.
+- UI supports basic functionality but lacks strategic overview.
 
-* Strong:
-
-  * epilogues,
-  * alliance permutations,
-  * branching outcomes.
-* Weak:
-
-  * emotional variance between playthroughs,
-  * uncomfortable or morally escalating moments.
-
-Replayability becomes:
-
-> “See different checkboxes,” not “feel different experiences.”
+Notes:
+- Pause is used reactively rather than strategically.
 
 ---
 
-## 9. World, Tone & Narrative (Template)
+### 3.6 Longevity & Replay Value
 
-* Worldbuilding:
-* Tone:
-* Lore consistency:
-* Faction identity:
+- Strong structural replayability (epilogues, alliances, outcomes).
+- Weak emotional replayability.
 
----
-
-## 10. UI / UX (Template)
-
-* Combat readability:
-* Information clarity:
-* Feedback loops:
-* Accessibility:
+Notes:
+- Replay value is driven by content variation, not gameplay evolution.
 
 ---
 
-## 11. Technical Systems (Template)
+## 4. Evaluation & Scoring
 
-* Performance:
-* Bugs / exploits:
-* Mod support:
-* Engine constraints:
+> Scores reflect how well the game achieves its own goals.
+
+**Gameplay & Mechanics:** __ / 10  
+**System Coherence:** __ / 10  
+**Presentation & Feel:** __ / 10  
+**Narrative / Atmosphere:** __ / 10  
+**UX / Accessibility:** __ / 10  
+**Longevity / Replayability:** __ / 10  
 
 ---
 
-## 12. Overall Assessment
+## 5. Final Evaluation
 
 **Strengths:**
 
-* Worldbuilding.
-* Tone and atmosphere.
-* Narrative consequences.
-
 **Weaknesses:**
 
-* Shallow RPG systems.
-* Weak buildcraft.
-* Poor loot identity.
-* Late-game stagnation.
+**Final Verdict:**  
 
-> **Dragon Age: Origins is a strong narrative RPG built on an unfinished RPG system foundation.**
-
----
-
-# Evaluation & Scoring (Template)
-
-* **Narrative & World:** ___ / 10
-* **Character Writing:** ___ / 10
-* **Combat Systems:** ___ / 10
-* **Class Design:** ___ / 10
-* **Buildcraft & Progression:** ___ / 10
-* **Items & Loot:** ___ / 10
-* **AI & Automation:** ___ / 10
-* **Replayability:** ___ / 10
-
-**Overall Score:** ___ / 10
+**Overall Score:** __ / 10
