@@ -4,9 +4,10 @@
 **Title:** Dragon Age: Origins  
 **Developer / Studio:** BioWare  
 **Year:** 2009  
-**Genre:** cRPG
+**Genre:** cRPG  
 **Playtime:** ~50–70h
 
+(I try to make this spoiler-free, but there are some "clues" on some story parts. Had to point it out.)
 ---
 
 ## 1. High-Level Overview
@@ -35,12 +36,12 @@
 - Skill trees are shallow and effectively completed by level 9–10.
 - Severe structural class imbalance (mages dominate).
 - Warriors lack meaningful gameplay decisions.
-- Active abilities are weak compared to auto-attacks.
-- Stamina system discourages active skill usage.
+- Active abilities are weak compared to auto-attacks. (Except for mage ofc, other classes have weak abilities)
+- Stamina system discourages active skill usage. (Okay, I take it back, because it's problem of horizontal skill progress, too many skills, too little stamina, skills dont feel rewarding)
 - Loot lacks identity and rarely affects playstyle.
 - Many progression choices feel like taxes rather than expression.
-- Moral choices are sparse and unevenly distributed.
 - Companion relationships are binary and static.
+- Economy is kinda boomed, I'm walking with 150 golds and I cannot spend that on anything valuable, I bought all potions from the shops and still have that much gold.
 
 ---
 
@@ -59,9 +60,10 @@
 
 ### 2.4 Memorable Moments / Highlights
 
-- Redcliffe Castle questline as a standout moral dilemma.
+- Redcliffe Castle questline as a standout moral dilemma + Morrigan proposal in the endgame.
 - Key companion confrontations tied to major story decisions.
 - Final act narrative resolutions and epilogues.
+- In the endgame we had very good narrative choices which impact heavily gameplay (companions).
 
 ---
 
@@ -73,10 +75,14 @@
 - Heavy reliance on auto-attacks.
 - Low decision density during combat, especially in late game.
 - Active abilities feel ornamental rather than core.
+- Narrative may impact the gameplay (companions in/out in the endgame).
 
 Notes:
 - Gameplay lacks a strong late-game evolution.
 - Combat depth does not scale with player progression.
+- Pause is used reactively rather than strategically.
+- I think it would be great addition for every major choice to add possibility to ask companions for advice, to get their view. In DA:O its not obvious what companions think about the choice, sometimes
+my decisions get negative approval from some of them and I don't see valid reason why. (suddenly after writing this I started to get their opinions on some choices lol)
 
 ---
 
@@ -108,6 +114,8 @@ Notes:
 - Dark fantasy tone maintained consistently.
 - Worldbuilding is rich and believable.
 - Companion writing is uneven but occasionally excellent.
+- The fact that game is divided into "sections" with completely different and separate locations makes the playthrough easier and lighter
+- Pacing is well kept
 
 Notes:
 - Narrative is the strongest aspect of the game.
@@ -119,41 +127,68 @@ Notes:
 - Targeting and battlefield readability are poor, especially indoors.
 - Camera limitations reduce tactical clarity.
 - UI supports basic functionality but lacks strategic overview.
+- UI is good enough, does its job.
 
 Notes:
-- Pause is used reactively rather than strategically.
+- 
 
 ---
 
 ### 3.6 Longevity & Replay Value
 
 - Strong structural replayability (epilogues, alliances, outcomes).
-- Weak emotional replayability.
+- Weak system replayability.
 
 Notes:
 - Replay value is driven by content variation, not gameplay evolution.
 
 ---
 
-## 4. Evaluation & Scoring
+## 4. Technical aspects
+
+- Engine is solid (Aurora iirc)
+- Had few crashes but for an old game it wasn't bad, it doesn't affect my scoring. (In the end I had quite a lot of crashes, most likely due to memory leaks or too many objects spawned from abilities.)
+- Loads fast, textures load correctly in time (LOD is fine)
+
+## 5. Evaluation & Scoring
 
 > Scores reflect how well the game achieves its own goals.
 
-**Gameplay & Mechanics:** __ / 10  
-**System Coherence:** __ / 10  
-**Presentation & Feel:** __ / 10  
-**Narrative / Atmosphere:** __ / 10  
-**UX / Accessibility:** __ / 10  
-**Longevity / Replayability:** __ / 10  
+**Gameplay & Mechanics:** 7 / 10  
+**System Coherence:** 7 / 10  
+**Presentation & Feel:** 9 / 10  
+**Narrative / Atmosphere:** 9.5 / 10  
+**UX / Accessibility:** 8 / 10  
+**Longevity / Replayability:** 8 / 10  
 
 ---
 
-## 5. Final Evaluation
+## 6. Final Evaluation
 
-**Strengths:**
+**Strengths:** 
+* Story, non-linear, engaging
+* Main characters
 
-**Weaknesses:**
+**Weaknesses:** 
+* game balance
+* lack of re-spec
 
-**Final Verdict:**  
+**Final Verdict:**
+This review might seem harsh, but I truly believe this is a really good game. I might not replay it soon, but maybe in a few years I'll try more "evil" and "heartless" approach to see some different outcomes. Is it one of the GOATs? Not really, I don't feel like it shaped the genre or changed anything. Although it's a shame to see what Dragon Age looked like and what it looks like now with the Veilguard slop.
 
-**Overall Score:** __ / 10
+**My ending**: \
+Alistar is king with Anora as Queen. Loghain dead. Morrigan had child with Alistair and got archdemon's soul in it. My character lives and is hero of ferelden.
+
+Urn of the sacred ashes: Protected by Leliana, Brother Genitivi returned to Denerim.
+
+Circle of Magi: Templars ending, Circle not given independence
+
+Redcliffe: Saved, Connor is dead
+
+Dalish: Sided with Zathrian, the curse was ended.
+
+Orzammar: Sided with Harrowmont, Branka lives and uses anvil.
+
+Haven't romanced anyone because I'm a sigma and I dont enjoy romances in games B)
+
+**Overall Score:** 8.5 / 10
